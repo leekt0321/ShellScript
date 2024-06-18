@@ -1,0 +1,14 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.10.200  linux200.example.com  linux200
+192.168.10.201  linux201.example.com  linux201
+192.168.10.202  linux202.example.com  linux202
+192.168.10.203  linux203.example.com  linux203
+192.168.10.204  linux204.example.com  linux204
+192.168.10.205  linux205.example.com  linux205
+192.168.10.206  linux206.example.com  linux206
+192.168.10.207  linux207.example.com  linux207
+192.168.10.208  linux208.example.com  linux208
+192.168.10.209  linux209.example.com  linux209
+192.168.10.210  linux210.example.com  linux210
